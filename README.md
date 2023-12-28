@@ -1,7 +1,7 @@
 # Tower Defense Game
 
 ## Project Overview
-Welcome to our Tower Defense Game project!This project was crafted as part of our coursework 
+Welcome to our Tower Defense Game project! This project was crafted as part of our coursework 
 in "DIT213 Objektorienterat programmeringsprojekt", 
 emphasizing the Model-View-Controller (MVC) architecture and adherence to SOLID principles.
 
