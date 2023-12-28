@@ -9,7 +9,7 @@ Our goal was to create an engaging gaming experience while demonstrating profici
 GUI design, and software design principles.
 
 ## Tutorial
-Refer to the tutorial PDF for comprehensive guidance on gameplay instructions and strategies.
+Refer to the tutorial PDF (in swedish) for comprehensive guidance on gameplay instructions and strategies.
 
 ## Getting Started
 To run the game, simply execute the application class.
