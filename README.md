@@ -1,13 +1,20 @@
-# oop-projekt
-Projekt i TDA367/DIT213 Objektorienterat programmeringsprojekt
+# Tower Defense Game
 
-# Class
-A class name start with I if it is an Interface, A if it is an abstract class
-The first word is capitalize, i.e PascalCase
-It always ends in what part of MVC it is, i.e Model, View, Controller or App
+## Project Overview
+Welcome to our Tower Defense Game project, a Java-based application developed using Java Swing. 
+This project was crafted as part of our coursework in "DIT213 Objektorienterat programmeringsprojekt", 
+emphasizing the Model-View-Controller (MVC) architecture and adherence to SOLID principles.
 
-# Method
-Use camelCase
+Our goal was to create an engaging gaming experience while demonstrating proficiency in Java programming, 
+GUI design, and software design principles.
 
-# Variable
-Use camelCase
+## Getting Started
+To run the game, simply execute the application class.
+
+```java
+// Command to run the application
+java Application.java
+
+## Developers
+Anthon Wirback,Filip Erking, Simon Adamsson,Tobias Petersson, Elias Blanksvärd. 
+
