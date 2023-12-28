@@ -12,7 +12,8 @@ GUI design, and software design principles.
 Refer to the tutorial PDF (in swedish) for comprehensive guidance on gameplay instructions and strategies.
 
 ## Getting Started
-To run the game, simply execute the application class.
+To run the game, simply execute the application.java file 
+or run the following command in the terminal.
 ```java
 // Command to run the application
 java Application.java
